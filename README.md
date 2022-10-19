@@ -1,6 +1,6 @@
 # XenonStack_project
 
-goto: https://paraschawla007.github.io/XenonStack_project/
+site Live at:  https://paraschawla007.github.io/XenonStack_project/
 
 Web pages supporting Login, SignUp, Logout and Contact form made in PHP and database used is MySql.
 
